@@ -1,0 +1,31 @@
+                 
+  Ok
+ 0: No change (
+"P1	A	Q	
+/w3'"
+AUTOBOOT.BIN
+Address violation!
+BASIC47.BIN
+COS.BIN
+CPM22.BIN
+CPMLDR.COM
+Checksum error!
+DSxNAM.DAT
+DSxNyy.DSK
+Disk Set 
+Enter your choice >
+FORTH13.BIN
+IOS: Check SD and press a key to repeat
+IOS: Current 
+IOS: Select boot mode or system parameters:
+Load error - System halted
+O__O`
+QPMLDR.BIN
+Starting Address: 
+Syntax error!
+UCSDLDR.BIN
+Waiting input stream...
+_"E(	
+aPq	
+iLoad - Intel-Hex Loader - S200718
+iLoad: 

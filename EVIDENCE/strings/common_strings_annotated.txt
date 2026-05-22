@@ -1,0 +1,30 @@
+# Common Strings — Verified Binary Offsets
+# 25 strings present in both reference and suspect binaries
+
+Offset     String
+------------------------------------------------------------
+0x023C                       
+0x0371       0: No change (
+0x4374      AUTOBOOT.BIN
+0x44DE      Address violation!
+0x4381      BASIC47.BIN
+0x43C5      COS.BIN
+0x4399      CPM22.BIN
+0x43AE      CPMLDR.COM
+0x44C6      Checksum error!
+0x4685      DSxNAM.DAT
+0x4690      DSxNyy.DSK
+0x0486      Disk Set 
+0x029D      Enter your choice >
+0x438D      FORTH13.BIN
+0x03B3      IOS: Check SD and press a key to repeat
+0x022B      IOS: Current 
+0x0383      IOS: Select boot mode or system parameters:
+0x4485      Load error - System halted
+0x43A3      QPMLDR.BIN
+0x4472      Starting Address: 
+0x44B8      Syntax error!
+0x43B9      UCSDLDR.BIN
+0x44A0      Waiting input stream...
+0x444F      iLoad - Intel-Hex Loader - S200718
+0x44D6      iLoad: 

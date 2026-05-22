@@ -1,0 +1,128 @@
+	e6q
+	h;{@
+	h>s@
+	i;{@
+             
+                 
+  Ok
+ - File: 
+ ...done      
+ 0: No change (
+ 1: Basic
+ 2: Forth
+ 3: Load/set OS 
+ 4: Autoboot
+ 5: iLoad
+ 6: Change Z80 clock speed (->
+ 7: Toggle CP/M Autoexec (->
+ 8: Set serial port speed (
+ 9: Set RTC time/date
+ Day -> 
+ Done
+ on 
+ operation
+"P1	
+"P1	9
+"P1	A	Q	
+###=#/#
+#+$+%+y
+$#5##+q
+$^=O
+&41D
+&_$6
+&_(1
+&_,3
+&_?@A	Q	/??NA
+)...
+)? [Y/N] >
+-d/	
+/\?O<
+/_?O
+/p3'
+/p3'#+
+/w3'"
+13:54:30
+1p#+	
+=	N	_	i
+@Z]O
+A,Q,2
+APP@
+AUTOBOOT.BIN
+Address violation!
+BASIC47.BIN
+COS.BIN
+CPM22.BIN
+CPMLDR.COM
+Changed speed will be effective after next reboot!
+Checksum error!
+D'U'
+DISK_ERR
+DSxNAM.DAT
+DSxNyy.DSK
+Disk Set 
+Do you want set RTC at IOS compile time (
+E/V/g/w'
+Enter your choice >
+FORTH13.BIN
+FUZIX.BIN
+Hours -> 
+IOS - I/O Subsystem - S220718-R290823
+IOS: Baud recovery done - Please reboot now!
+IOS: CP/M Autoexec is 
+IOS: Check SD and press a key to repeat
+IOS: Current 
+IOS: Found GPE Option
+IOS: Found RTC DS3231 Module (
+IOS: Found extended serial Rx buffer
+IOS: Loading boot program (
+IOS: Loading boot program...
+IOS: RTC DS3231 temperature sensor: 
+IOS: RTC clock failure!
+IOS: RTC date/time updated (
+IOS: RTC manual setting:
+IOS: RTC set at compile time - Now: 
+IOS: SD error 
+IOS: Select boot mode or system parameters:
+IOS: Z80 clock set at 
+IOS: Z80 is running from now
+Load error - System halted
+MHz)
+MOUNT
+Minutes -> 
+Month -> 
+NOT_ENABLED
+NOT_OPENED
+NOT_READY
+NO_FILE
+NO_FILESYSTEM
+N__O
+N__O$
+OPEN
+O__O`
+Press CR to accept, ESC to exit or any other key to change
+Press T/U to increment +10/+1 or CR to accept
+Q,A,
+QPMLDR.BIN
+Qpf'w'E+F+G+	
+READ
+SEEK
+Seconds -> 
+Sep 24 2023
+Starting Address: 
+Syntax error!
+UCSDLDR.BIN
+UNKNOWN
+WRITE
+Waiting input stream...
+Y/H/7/&/f
+Year -> 
+Z80-MBC2 - A040618
+]	n	
+]'!P1	A	Q	V
+_"E(	
+aPq	
+iLoad - Intel-Hex Loader - S200718
+iLoad: 
+m2q@
+q,a,
+tg+)

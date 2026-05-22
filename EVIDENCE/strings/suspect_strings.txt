@@ -1,0 +1,107 @@
+	H"Y"j"{"
+                 
+  Ok
+ / time = 
+ 0: No change (
+ 1: Autoboot
+ 2: Basic
+ 3: Forth
+ 4: Load OS from 
+ 5: iHex Loader
+ 6: Change Z80 clock speed (-> %s MHz)
+ 7: Toggle CP/M Autoexec (-> %s)
+ 8: Change 
+ 9: Edit RTC date + time
+ Press CR to accept, ESC to exit or any other key to change
+ UNDONE
+ date = 20
+!P1	
+"P1	A	Q	
+#- a
+#- d2.
+#-!`
+#-/~
+$P"0`
+%_?O
+'(0Q
+'f'w'
+(/(p
+)(!P1	 
+)(#+
+)/ c 
+)/&`
+,!,1,
+.(O__OoO
+/#/4/D'X_
+/_?O 
+/_?O&
+/p3'"
+/v/j/
+/w3'"
+4(/_
+6)!P1	 
+<1e0
+>>iLoad ===
+AUTOBOOT.BIN
+Address violation!
+BASIC47.BIN
+C"E$S"E$a,q,
+COS.BIN
+CPM22.BIN
+CPMLDR.COM
+Checksum error!
+Confirm (Y) to reboot the system 
+DSxNAM.DAT
+DSxNyy.DSK
+Disk Set 
+E+F+G+
+Enter your choice >
+F/Gp@]A
+F/Op@]J3
+FORTH13.BIN
+F__@a	q	O?_Na
+H1#p)
+IOS: CP/M Autoexec is %s
+IOS: Check SD and press a key to repeat
+IOS: Current 
+IOS: GPIO with PCF8574 or MCP23017 is enabled
+IOS: Loading boot program (%s)...
+IOS: Select boot mode or system parameters:
+IOS: Z80 clock speed set to %s MHz
+I__O
+K__O
+Load error - System halted
+Modify the Baudrate of the terminal port.
+Modify the date and time.
+O\_OK
+O__O`
+Press <Esc> to enter IOS settings dialogue 
+Press any key to reset and restart
+QPMLDR.BIN
+RTC module was not detected.
+Select %u sets the Baudrate to : %u
+Select 0 sets the Baudrate to : 115200 (default)
+Starting Address: 
+Syntax error!
+Terminal <BREAK> signal detected.
+The new settings will be active after a reset.
+To reset all startup settings to their defaults select %u
+UCSDLDR.BIN
+Use <Tab> + - keys to edit, <Enter> to confirm.
+Waiting input stream...
+X_O:
+Z80-MBC3. IOS (ATmega4809) - release S40427
+_"E(	
+__O"
+`	@81
+`>.*
+a,q,
+aPp@
+aPq	
+g/x/
+h?.*
+iLoad - Intel-Hex Loader - S200718
+iLoad: 
+n1/_?O 
+v'h+
+w?.6
